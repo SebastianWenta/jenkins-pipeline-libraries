@@ -2,6 +2,6 @@ package buildit
 
 class TestClass{
   TestClass() {
-    echo "Created Test Class instance"
+    println "Created Test Class instance"
   }
 }
