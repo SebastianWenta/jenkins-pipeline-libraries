@@ -6,6 +6,7 @@ class TestClass{
   }
 
   String printSth(String asd){
+    println "echo ${asd}"
     return "echo ${asd}"
   }
 }
